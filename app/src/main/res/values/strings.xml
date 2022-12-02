@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projet_About_Me</string>
+    <string name="name">Yvelin A. Ray</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Salut,Experiment with adding an ImageView above the TextView inside the ScrollView. When you run the app, this image, unlike the star, will scroll out of view as the text scrolls up.
+
+Hint: You will need to wrap the two scrollable views into a LinearLayout inside the ScrollView. ScrollView > LinerLayout > ImageView + TextView </string>
+
+</resources>
