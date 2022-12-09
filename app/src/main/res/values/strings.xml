@@ -6,5 +6,6 @@
 
 Hint: You will need to wrap the two scrollable views into a LinearLayout inside the ScrollView. ScrollView > LinerLayout > ImageView + TextView </string>
     <string name="What_is_your_nickname">What\'s your nickname ?</string>
+    <string name="done">DONE</string>
 
 </resources>
